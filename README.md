@@ -1,6 +1,6 @@
 ## Hi everyone 👋
 
-My name is Kyle, and I enjoy reading, teaching, and occasionally watching a movie. I'm currently narrowing down a career and academica field. 
+My name is Kyle, and I enjoy reading, teaching, and occasionally watching a movie. I'm currently narrowing down a career and academia field. 
 
 <p align="center"> 
 <img src="images/profile.PNG" width="30%">
