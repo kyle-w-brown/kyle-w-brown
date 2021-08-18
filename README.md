@@ -5,6 +5,6 @@ My name is Kyle and I'm the human version of dependabot. My main hobby is buildi
 I have clients across several industries and may be able to help solve your needs? Big or small.
 
 <p align="center"> 
-<img src="images/profile.PNG" width="30%">
+<img src="images/profile.PNG" width="35%">
 </p>
 
